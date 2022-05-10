@@ -6,7 +6,7 @@ This guided project is an exploratory analysis on the SAT and how schools in New
 
 #### Project Steps
 
-- Load data into a dictionary from [NYC Open Data](https://data.cityofnewyork.us/browse?category=Education)
+- Load data into a dictionary.
 - Clean and Merge Data
 - Perform Analysis
 - Present Findings
@@ -27,4 +27,4 @@ The code for this project can be found [here:](https://github.com/Drewsky33/Anal
 
 The datasets needed for this analysis can be found here:
 
-[books_reviews](https://github.com/Drewsky33/Learning-Data-Analysis-Workflow-in-R/blob/main/book_reviews.csv)
+[NYC Open Data](https://data.cityofnewyork.us/browse?category=Education)
